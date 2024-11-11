@@ -1,0 +1,3 @@
+rootProject.name = 'kafka-request-reply'
+include 'replyer'
+include 'requestor'
